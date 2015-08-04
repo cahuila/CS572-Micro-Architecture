@@ -1,0 +1,21 @@
+For a 7 letter pali.
+
+Total Instrucitons -> 48
+Total Cycles       -> 246
+Speed up	   -> 1.56
+
+For a 11 letter non pali.
+
+Total Instrucitons -> 64
+Total Cycles       -> 330
+Speed up	   -> 1.55
+
+For a 35 letter pali.
+Total Instrucitons -> 160
+Total Cycles       -> 834
+Speed up	   -> 1.53
+
+For a blank word
+Total Instrucitons -> 20
+Total Cycles       -> 99
+Speed up           -> 1.61
